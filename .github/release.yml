@@ -9,7 +9,7 @@ changelog:
       lables:
         - 'bug'      
       exclude:
-        - exclude:
+        - labels:
           - 'documentation'
     - title: Document Improvement
       lables:
